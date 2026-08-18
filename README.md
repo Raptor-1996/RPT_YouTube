@@ -2,10 +2,10 @@
 
 **YouTube Video & Audio Downloader** with modern GUI - Developed by Raptor96
 
-[![GitHub license](https://img.shields.io/github/license/Raptor-1996/RPT-YouTube)](https://github.com/Raptor-1996/RPT-YouTube/blob/main/LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/Raptor-1996/RPT-YouTube)](https://github.com/Raptor-1996/RPT-YouTube/releases)
+[![GitHub license](https://img.shields.io/github/license/Raptor-1996/RPT-YouTube)](https://github.com/Raptor-1996/RPT_YouTube/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Raptor-1996/RPT-YouTube)](https://github.com/Raptor-1996/RPT_YouTube/releases)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)](https://github.com/Raptor-1996/RPT-YouTube)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)](https://github.com/Raptor-1996/RPT_YouTube)
 
 ---
 
