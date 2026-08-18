@@ -25,13 +25,15 @@
 ## 🚀 Quick Start
 
 ### Windows
-1. Download the latest `RPT_YouTube.exe` from [Releases](https://github.com/Raptor-1996/RPT_YouTube/releases)
+1. Download the latest `RPT_YouTube.exe` from [Releases](https://github.com/Raptor-1996/RPT_YouTube/releases/tag/Windows)
 2. Run the executable (no installation required!)
 
 ### Linux
-1. Download the `.deb` package from [Releases](https://github.com/Raptor-1996/RPT_YouTube/releases)
-2. Install with: `sudo dpkg -i rpt-youtube_*.deb`
-3. Run: `rpt-youtube`
+1. Download the `.deb` package from [Releases](https://github.com/Raptor-1996/RPT_YouTube/releases/tag/Linux)
+2. Install with:
+3. ```sudo dpkg -i rpt-youtube_*.deb```
+4. Run: 
+```rpt-youtube```
 
 ### From Source
 
